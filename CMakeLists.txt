@@ -64,7 +64,7 @@ set(
 
 set(
   PLUGIN
-  microservice_example
+  msimicroservice_example
   )
 
   add_library(
